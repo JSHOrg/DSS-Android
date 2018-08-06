@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contactos"
+            android:icon="@drawable/ic_people"
+            android:title="@string/menu_item_contactos" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_invalid_name"
+            android:title="@string/menu_item_mapa" />
+        <item
+            android:id="@+id/nav_acopio"
+            android:icon="@drawable/ic_acopio"
+            android:title="@string/menu_item_acopio" />
+    </group>
+
+</menu>
