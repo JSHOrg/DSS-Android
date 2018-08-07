@@ -37,9 +37,9 @@
 
     <img src="https://user-images.githubusercontent.com/20865008/43789690-2de39b02-9a36-11e8-9458-7532ea57c9d0.png" width="200">
 
-### Uso
+## Desarrollo
 1. Intalar [Android studio][6].
-2. Descargar repositorio.
+2. Descargar repositorio como zip.
 3. Abrirlo en Android studio.
 
 [1]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Tablet
