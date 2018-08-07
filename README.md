@@ -40,7 +40,7 @@
 ## Desarrollo
 1. Instalar [Android studio][6].
 2. Descargar repositorio como zip.
-    *Para la descarga del repositorio no requiere tener cuenta ya que es PÚBLICO.
+        * Para la descarga del repositorio __no requiere tener cuenta.__
 <img width="800" alt="captura de pantalla 2018-08-07 a la s 12 44 49 p m" src="https://user-images.githubusercontent.com/20865008/43792940-b86c6c46-9a3f-11e8-9c67-1565dee79610.png">
 
 
