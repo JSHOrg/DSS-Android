@@ -10,7 +10,12 @@ Repositorio para aplicación DSS para platataforma Android
 <img src="https://user-images.githubusercontent.com/20865008/43789671-2ca9886e-9a36-11e8-9250-6cbcb290f096.png" width="200">
 
 2. Configuraciones -> Seguridad
+<img src="https://user-images.githubusercontent.com/20865008/43790503-6b34ed2e-9a38-11e8-9a83-518e8c2fae1f.png" width="200">
+
 3. Seleccionar la opción Aceptar Aplicaciones de fuentes desconocidas
+<img src="https://user-images.githubusercontent.com/20865008/43789675-2cf6d9f2-9a36-11e8-8648-8dc2be2c3f1e.png width="200">
+<img src="https://user-images.githubusercontent.com/20865008/43789676-2d08bed8-9a36-11e8-9dd9-200a38fa6671.png" width="200">  
+
 4. Descargar la aplicación de los links proporcionados [Tablet][1] o [Teléfono][2]
    * si se abre desde un dispositivo móvil se requiere visualizar como desde escritorio.
 5. Seleccionar el archivo .apk
