@@ -38,8 +38,9 @@
     <img src="https://user-images.githubusercontent.com/20865008/43789690-2de39b02-9a36-11e8-9458-7532ea57c9d0.png" width="200">
 
 ## Desarrollo
-1. Intalar [Android studio][6].
+1. Instalar [Android studio][6].
 2. Descargar repositorio como zip.
+    *Para la descarga del repositorio no requiere tener cuenta ya que es PÚBLICO.
 <img width="800" alt="captura de pantalla 2018-08-07 a la s 12 44 49 p m" src="https://user-images.githubusercontent.com/20865008/43792940-b86c6c46-9a3f-11e8-9c67-1565dee79610.png">
 
 
