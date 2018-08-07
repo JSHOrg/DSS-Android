@@ -1,6 +1,7 @@
 # DSS-Android
 ## Repositorio para aplicación DSS para platataforma Android.
    <img src="https://user-images.githubusercontent.com/20865008/43789691-2dff7886-9a36-11e8-83b8-e8dff4ba0138.png" width="200">
+   
 ## Contenido
 1. [Empaquetados][3]
 2. [Instalación][4]
