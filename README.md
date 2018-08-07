@@ -40,7 +40,8 @@
 ## Desarrollo
 1. Intalar [Android studio][6].
 2. Descargar repositorio como zip.
-<img width="280" alt="dw" src="https://user-images.githubusercontent.com/20865008/43792940-b86c6c46-9a3f-11e8-9c67-1565dee79610.png">
+<img width="800" alt="captura de pantalla 2018-08-07 a la s 12 44 49 p m" src="https://user-images.githubusercontent.com/20865008/43792940-b86c6c46-9a3f-11e8-9c67-1565dee79610.png">
+
 
 3. Abrirlo en Android studio.
 
