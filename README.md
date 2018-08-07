@@ -6,7 +6,7 @@
 * [Tablet][1]
 * [Teléfono][2]
 
-### Instalación de aplicación en dispositivos Android (Tablet y Teléfonos)
+## Instalación de aplicación en dispositivos Android (Tablet y Teléfonos)
 1. Acceder a las configuraciones del dispositivo.
 
     <img src="https://user-images.githubusercontent.com/20865008/43789671-2ca9886e-9a36-11e8-9250-6cbcb290f096.png" width="200">
