@@ -1,4 +1,6 @@
-# DSS-Android – Repositorio para aplicación DSS para platataforma Android.
+# DSS-Android
+Repositorio para aplicación DSS para platataforma Android.
+
 ## Contenido
 1. [Empaquetados][3]
 2. [Instalación][4]
