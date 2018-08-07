@@ -41,8 +41,13 @@
     <img src="https://user-images.githubusercontent.com/20865008/43789690-2de39b02-9a36-11e8-9458-7532ea57c9d0.png" width="200">
 
 ## Uso
+1. Intalar [Android studio][6].
+2. Descargar repositorio.
+3. Abrirlo en Android studio.
 
 [1]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Tablet
 [2]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Telefono
 [3]:https://github.com/JSHOrg/DSS-Android#empaquetados
 [4]:https://github.com/JSHOrg/DSS-Android#instalaci%C3%B3n-de-aplicaci%C3%B3n-en-dispositivos-android-tablet-y-tel%C3%A9fonos
+[5]:https://github.com/JSHOrg/DSS-Android#uso
+[6]:https://developer.android.com/studio/
