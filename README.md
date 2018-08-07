@@ -5,7 +5,7 @@
 ## Contenido
 1. [Empaquetados][3]
 2. [Instalación][4]
-3. [Uso][5]
+3. [Desarrollo][5]
 
 ### Empaquetados
 * [Tablet][1]
@@ -49,5 +49,5 @@
 [2]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Telefono
 [3]:https://github.com/JSHOrg/DSS-Android#empaquetados
 [4]:https://github.com/JSHOrg/DSS-Android#instalaci%C3%B3n-de-aplicaci%C3%B3n-en-dispositivos-android-tablet-y-tel%C3%A9fonos
-[5]:https://github.com/JSHOrg/DSS-Android#uso
+[5]:https://github.com/JSHOrg/DSS-Android#desarrollo
 [6]:https://developer.android.com/studio/
