@@ -23,7 +23,7 @@
     <img src="https://user-images.githubusercontent.com/20865008/43789676-2d08bed8-9a36-11e8-9dd9-200a38fa6671.png" width="200">  
 
 4. Descargar la aplicación de los links proporcionados [Tablet][1] o [Teléfono][2]
-   * si se abre desde un dispositivo móvil se requiere visualizar como desde escritorio.
+   * Sí se abre desde un dispositivo móvil se requiere visualizar como desde escritorio.
    
    <img src="https://user-images.githubusercontent.com/20865008/43789678-2d1cfa88-9a36-11e8-926e-dccbbd77ed78.png" width="200">
    <img src="https://user-images.githubusercontent.com/20865008/43789679-2d38e6da-9a36-11e8-8bfe-783101d8af1a.png" width="200">
@@ -40,7 +40,7 @@
 ## Desarrollo
 1. Instalar [Android studio][6].
 2. Descargar repositorio como zip.
-        * Para la descarga del repositorio __no requiere tener cuenta.__
+    * Para la descarga del repositorio __no requiere tener cuenta.__
 <img width="800" alt="captura de pantalla 2018-08-07 a la s 12 44 49 p m" src="https://user-images.githubusercontent.com/20865008/43792940-b86c6c46-9a3f-11e8-9c67-1565dee79610.png">
 
 
