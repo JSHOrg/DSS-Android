@@ -2,6 +2,10 @@
 ## Repositorio para aplicación DSS para platataforma Android.
    <img src="https://user-images.githubusercontent.com/20865008/43789691-2dff7886-9a36-11e8-83b8-e8dff4ba0138.png" width="200">
 
+## Contenido
+1. [Empaquetados][3]
+2. [Instalación][4]
+
 ### Empaquetados
 * [Tablet][1]
 * [Teléfono][2]
@@ -38,4 +42,5 @@
 
 [1]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Tablet
 [2]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Telefono
-[3]:https://user-images.githubusercontent.com/20865008/43789671-2ca9886e-9a36-11e8-9250-6cbcb290f096.png
+[3]:https://github.com/JSHOrg/DSS-Android#empaquetados
+[4]:https://github.com/JSHOrg/DSS-Android#instalaci%C3%B3n-de-aplicaci%C3%B3n-en-dispositivos-android-tablet-y-tel%C3%A9fonos
