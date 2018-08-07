@@ -26,9 +26,9 @@ Repositorio para aplicación DSS para platataforma Android
    <img src="https://user-images.githubusercontent.com/20865008/43789679-2d38e6da-9a36-11e8-8bfe-783101d8af1a.png" width="200">
    <img src="https://user-images.githubusercontent.com/20865008/43789686-2d9cfa44-9a36-11e8-925b-81d4ca000cac.png" width="200">
    <img src="https://user-images.githubusercontent.com/20865008/43789687-2db17294-9a36-11e8-95aa-564f1d3ed830.png" width="200">
-   <img src="https://user-images.githubusercontent.com/20865008/43789689-2dc9b49e-9a36-11e8-8f51-7a59379f1e02.png" width="200">
    
 5. Seleccionar el archivo .apk
+    <img src="https://user-images.githubusercontent.com/20865008/43789689-2dc9b49e-9a36-11e8-8f51-7a59379f1e02.png" width="200">
 6. Seleccionar la opción Instalar y luego abrir.
     <img src="https://user-images.githubusercontent.com/20865008/43789690-2de39b02-9a36-11e8-9458-7532ea57c9d0.png" width="200">
 
