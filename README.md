@@ -2,8 +2,8 @@
 Repositorio para aplicación DSS para platataforma Android
 
 ### Empaquetados
-[Tablet][1]
-[Teléfono][2]
+* [Tablet][1]
+* [Teléfono][2]
 
 ### Instalación de aplicación
 1. Acceder a las configuraciones del dispositivo.
