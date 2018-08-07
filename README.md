@@ -5,6 +5,7 @@
 ## Contenido
 1. [Empaquetados][3]
 2. [Instalación][4]
+3. [Uso][5]
 
 ### Empaquetados
 * [Tablet][1]
@@ -39,6 +40,7 @@
 
     <img src="https://user-images.githubusercontent.com/20865008/43789690-2de39b02-9a36-11e8-9458-7532ea57c9d0.png" width="200">
 
+## Uso
 
 [1]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Tablet
 [2]:https://github.com/JSHOrg/DSS-Android/tree/master/empaquetado%20Telefono
