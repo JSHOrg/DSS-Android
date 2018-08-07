@@ -7,7 +7,7 @@ Repositorio para aplicación DSS para platataforma Android
 
 ### Instalación de aplicación
 1. Acceder a las configuraciones del dispositivo.
-![][3]{: width=200px}
+![](https://user-images.githubusercontent.com/20865008/43789671-2ca9886e-9a36-11e8-9250-6cbcb290f096.png){: width=200px}
 2. Configuraciones -> Seguridad
 3. Seleccionar la opción Aceptar Aplicaciones de fuentes desconocidas
 4. Descargar la aplicación de los links proporcionados [Tablet][1] o [Teléfono][2]
